@@ -1,5 +1,2 @@
-this is the first git course and we are dealing with red planets and blue planets
-
-looking at red planet and blue planet is interesting
-
+well this is the first git course and we are dealing with red planets and blue planets
 
